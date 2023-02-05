@@ -1,0 +1,586 @@
+var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+obj a k = current a();
+if a < l < k  {
+    var int k;
+}else{var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);}
+while a+b < k-8{
+var int k = :0;
+k = k +1;
+var int names = [1, 2, 3];
+resume
+}
+
+// - a.b.fn().a.f*c;
+
+for (var int i,k = :0;  i < 9; i = i+1 ){
+var int k = :0;
+k = k +1;
+pass;
+resume;
+stop;
+}
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send ;
+var int names = [[1, 2], 1, 2, [1, 3, 4, 1], 1, [13]];
+var int names = [1];
+var int names = [1, [1], [1, [1]]];
+var text names = ["khadija"];
+
+a.a(a, k);
+a[1].k(a, k);
+a.a.a.s.s[1][0].l(a, k);
+a.a(a, k);
+a.a(a, k).a();
+a[1].k(a, k).a.s.c(a, b);
+a.a.a.s.s[1][0].l(a, k).b.c[13].k();
+l().a().k();
+k[aa].func().fn();
+for (var int i,k = :0; a.b.fm().arr[8][a.b.fm().arr[8][8] * here.age *here.a-khadija/pj * here.age] * here.age *here.a-khadija/pj * here.age - khadija().a.a.a-5 * here.fizza ; i = i+1 ){
+    var int k = :0;
+}
+
+for (var int i,k = :0;  i < 9; i = i+1 ){
+    var int k = :0;
+}
+
+
+//assignment wrong
+a = 5;
+a.b= 5;
+a.s.s.s.s=2;
+names["khadija"] = 2;
+a.names["khadija"] = 2;
+names["khadija"].a = 2;
+
+//correct
+a = 5;
+a:.b= 5;
+a:.s.s.s.s=2;
+names:["khadija"] = 2;
+a:.names["khadija"] = 2;
+names:["khadija"].a = 2;
+
+khadija:().j.a = 1;
+a:().a.as().y = 4;
+a:.khadija(a, v).j = 1;
+a:.names["khadija"].khadija().j.y = 2;
+
+
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send current name();
+abstract class name childof age {
+    static var int a;
+    final var text b = :"khadija";
+    constructor name(var int a){
+        while a< 5{
+            var num = (1, 2);
+        }
+    }
+    static define int name(){
+        if a < l < k  {
+        var int k;
+        obj name age ;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+        a = k;
+        send ;
+    }
+    static define void age(){
+obj a n = current a();
+
+        send a+b;
+    }
+    define void name(){
+    b = a+s+d+d+d+a;
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+     abstract define void  id (var text name);
+
+}
+var names = (1, 2, 3);
+var int a = :1;
+a = (5);
+a = (5+50);
+var a = (5,7);
+
+var int a = :(1);
+define void name( int a=5,  int b){
+}
+
+define void name( int a=5,  text b=3){
+}
+
+
+define void name( int a=5){
+}
+
+define void name(){
+}
+
+
+
+correct code:
+
+
+
+
+khadija:().j.a = 1;
+a:().a.as().y = 4;
+a:.khadija(a, v).j = 1;
+a:.names["khadija"].khadija().j.y = 2;
+var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+obj a k = current a();
+if a < l < k  {
+    var int k;
+}else{var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);}
+while a+b < k-8{
+var int k = :0;
+k = k +1;
+var int names = [1, 2, 3];
+resume
+}
+
+
+for (var int i,k = :0;  i < 9; i = i+1 ){
+var int k = :0;
+k = k +1;
+pass;
+resume;
+stop;
+}
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send ;
+var int names = [[1, 2], 1, 2, [1, 3, 4, 1], 1, [13]];
+var int names = [1];
+var text names = ["khadija"];
+
+a.a(a, k);
+a[1].k(a, k);
+a.a.a.s.s[1][0].l(a, k);
+a.a(a, k);
+a.a(a, k).a();
+a[1].k(a, k).a.s.c(a, b);
+a.a.a.s.s[1][0].l(a, k).b.c[13].k();
+l().a().k();
+k[aa].func().fn();
+
+
+a = 5;
+a:.b= 5;
+a:.s.s.s.s=2;
+names:["khadija"] = 2;
+a:.names["khadija"] = 2;
+names:["khadija"].a = 2;
+
+khadija:().j.a = 1;
+a:().a.as().y = 4;
+a:.khadija(a, v).j = 1;
+a:.names["khadija"].khadija().j.y = 2;
+
+
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send current name();
+abstract class name childof age {
+    static var int a;
+    final var text b = :"khadija";
+    constructor name(int a){
+        while a< 5{
+            var num = list[1, 2];
+        }
+    }
+    static define int name(){
+        if a < l < k  {
+        var int k;
+        obj name age ;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+        a = k;
+        send ;
+    }
+    static define void age(){
+obj a n = current a();
+
+        send a+b;
+    }
+    define void name(){
+    b = a+s+d+d+d+a;
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+     abstract define void  id (text name);
+
+}
+
+
+define void name( int a=5,  int b){
+    send current name("khadija");
+
+}
+
+define void name( int a=5,  text b=3){
+}
+
+var names = list[[]];
+var names1 = list[1, [a, [a, d], l]];
+var names2 = list["khadija", "hajra"];
+var names3 = list["khadija", "hajra", [1, [2], [3, [1]]]];
+define void name( int a=5){
+}
+
+define void name(){
+}
+
+
+var int a = :1;
+a = (5);
+a = (5+50);
+var a = list[5,7];
+
+var int a = :(1);
+
+
+
+class A
+{
+
+}
+
+a:().a.as().y = 4;
+a:.khadija(a, v).j.b = 1;
+a:.names["khadija"].khadija().j.y = 2;
+var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+obj a k = current a();
+if a < l < k  {
+    var int k;
+}
+else{
+    var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+}
+while a+b < k-8{
+    var int k = :0;
+    k = k +1;
+    var int names = [1, 2, 3];
+    resume;
+}
+
+
+for (var int i,k = :0;  i < 9; i = i+1 ){
+    var int k = :0;
+    k = k +1;
+    pass;
+    resume;
+    stop;
+}
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send ;
+var int names = [[1, 2], 1, 2, [1, 3, 4, 1], 1, [13]];
+var int names = [1];
+var text names = ["khadija"];
+
+a.a(a, k);
+a[1].k(a, k);
+a.a.a.s.s[1][0].l(a, k);
+a.a(a, k);
+a.a(a, k).a();
+a[1].k(a, k).a.s.c(a, b);
+a.a.a.s.s[1][0].l(a, k).b.c[13].k();
+l().a().k();
+k[aa].func().fn();
+
+
+a = 5;
+a:.b= 5;
+a:.s.s.s.s=2;
+names:["khadija"] = 2;
+a:.names["khadija"] = 2;
+names:["khadija"].a = 2;
+
+khadija:().j.a = 1;
+a:().a.as().y = 4;
+a:.khadija(a, v).j = 1;
+a:.names["khadija"].khadija().j.y = 2;
+
+
+
+abstract class name childof age {
+    static var int a;
+    final var text b = :"khadija";
+    constructor name(int a){
+        while a< 5{
+            var num = list[1, 2];
+        }
+    }
+    static define int name(){
+        if a < l < k  {
+        var int k;
+        obj name age ;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+        a = k;
+        send ;
+    }
+    static define void age(){
+obj a n = current a();
+
+        send a+b;
+    }
+    define void name(){
+    b = a+s+d+d+d+a;
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+     abstract define void  id (text name);
+define void name(){
+    b = a+s+d+d+d+a;
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+}
+
+
+define void name( int a=5,  int b){
+var int k;
+}
+    send current name("khadija");
+
+}
+
+define void name( int a=5,  text b=3){
+}
+
+var names = list[[]];
+var names1 = list[1, [a, [a, d], l]];
+var names2 = list["khadija", "hajra"];
+var names3 = list["khadija", "hajra", [1, [2], [3, [1]]]];
+define void name( int a=5){
+}
+
+define void name(){
+}
+
+
+var int a = :1;
+a = (5);
+var a = list[5,7];
+
+var int a = :(1);
+
+
+
+
+a:().a.as().y = 4;
+a:.khadija(a, v).j.b = 1;
+a:.names["khadija"].khadija().j.y = 2;
+var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+obj a k = current a();
+if a < l < k  {
+    var int k;
+}
+else{
+    var int num, khadija = :here.name * here.age(a().a+5/7*(1+5)).a.c[1] *here.a-khadija/pj * here.age - khadija().a.a.a-5 * here.khadija[9];
+}
+while a+b < k-8{
+    var int k = :0;
+    k := k +1;
+    var int names = [1, 2, 3];
+    resume;
+}
+
+
+for (var int i,k = :0;  here.i / a < 9; i = i+1 ){
+    var int k = :0;
+    k := k +1;
+    pass;
+    resume;
+    stop;
+}
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send ;
+var int names = [[1, 2], 1, 2, [1, 3, 4, 1], 1, [13]];
+var int names = [1];
+var text names = ["khadija"];
+
+a.a(a, k);
+a[1].k(a, k);
+a.a.a.s.s[1][0].l(a, k);
+a.a(a, k);
+a.a(a, k).a();
+a[1].k(a, k).a.s.c(a, b);
+a.a.a.s.s[1][0].l(a, k).b.c[13].k();
+l().a().k();
+k[aa].func().fn();
+
+
+a := 5;
+a:.b= 5;
+a:.s.s.s.s=2;
+names:["khadija"] = 2;
+a:.names["khadija"] = 2;
+names:["khadija"].a = 2;
+
+khadija:().j.a = 1;
+a:().a.as().y = 4;
+a:.khadija(a, v).j = 1;
+a:.names["khadija"].khadija().j.y = 2;
+
+
+send result;
+send 4+5;
+send 4*5-5/6*2;
+send current name();
+abstract class name childof age {
+    static var int a;
+    final var text b = :"khadija";
+    constructor name(int a){
+        while a< 5{
+            var num = list[1, 2];
+        }
+    }
+    static define int name(){
+        if a < l < k  {
+        var int k;
+        obj name age ;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+        a := k;
+        send ;
+    }
+    static define void age(){
+obj a n = current a();
+
+        send a+b;
+    }
+    define void name(){
+    b := a+s+d+d+d+a;
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+     abstract define void  id (text name);
+define void name(){
+           if a < l < k  {
+        var int k;
+    }else
+        {
+            var int num, khadija = :1+6 +6 * 5 / 7 + (4+5);
+        }
+
+    send current A();
+    }
+}
+
+
+define void name( int a=5,  int b){
+    send current name("khadija");
+
+}
+
+define void name( int a=5,  text b=3){
+}
+
+var names = list[[]];
+var names1 = list[1, [a, [a, d], l]];
+var names2 = list["khadija", "hajra"];
+var names3 = list["khadija", "hajra", [1, [2], [3, [1]]]];
+define void name( int a=5){
+}
+
+define void name(){
+}
+
+
+var int a = :1;
+a := (5);
+var a = list[5,7];
+
+var int a = :(1);
+
+
+scope
+var int a;
+var float b;
+define int xyz(int a){
+    var int a;
+
+}
+define text abc (float b){
+define int a(int a){
+
+}
+}
+
+
+while a{
+var int a;
+var text khadij;
+}
+while a{
+var int a;
+}
+
+if a{
+var int a;
+} else{
+var text b;
+}
+for (var int a=:0; i < a; i +=1){
+var int k;
+}
+
+class A{
+    define int a(int a){
+
+    }
+}
+
+
