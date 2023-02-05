@@ -1,0 +1,91 @@
+var int a;
+var int name,  car, pan = :a;
+var int pin;
+name();
+kjadk = 2;
+var text a;
+a = 1;
+var int i = :546;
+
+for (l=0; o < t; a +=1){
+    var int k;
+    var int i;
+}
+define int name(int sgs){
+
+}
+define int name(float sgg){
+
+}
+
+define int fun(float y, int z){
+        while (x < y){
+            var text s;
+            if s{
+            x = 878;
+
+                y = 22;
+            }
+            else{
+                z = a+1;
+            }
+            a = a + 1;
+        }
+    send khadija;
+}
+
+define int fun1(int x,  float y, int z){
+    var text s;
+    if s{
+        y = 22;
+    }
+    else{
+        z = a+1;
+    }
+    a = a + 1;
+    send a;
+}
+
+
+class A{
+    var int k;
+
+    define int a(int k){
+
+    }
+}
+ class B childof A{
+
+}
+
+ class C childof B{
+
+}
+
+class D childof C{
+
+}
+
+final class age{
+
+}
+
+class abc childof ag1e{
+
+}
+
+
+
+obj C x = current A();
+obj B x = current B();
+obj B x = current A();
+obj A x = current B();
+obj B x = current C();
+
+
+define int name(){
+
+}
+name();
+
+
